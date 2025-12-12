@@ -27,3 +27,4 @@ elif(density_altitude < 1000 and density_altitude > 870):
     print("airtow operation is allowed with caution")
 else:
     print("airtow operation is allowed")
+input("press enter to exit:")
