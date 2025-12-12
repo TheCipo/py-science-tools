@@ -11,3 +11,5 @@ molatiy = moles_salt / (water / 1000)  # molality of the solution
 increse_in_boil = i * kb * molatiy  # increase in boiling point
 boiling_point = 100 + increse_in_boil  # boiling point of the solution
 print(f"The boiling point of the solution is {boiling_point:.2f} °C")
+
+input("press enter to exit:")
